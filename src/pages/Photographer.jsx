@@ -15,7 +15,7 @@ import {
 // import PhotographerCard from "../component/photographer/PhotographerCard";
 import { major, photographers } from "../constants/data";
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@ant-design/icons";
-import MiniNavBar from "../components/partials/MiniNavbar";
+import MiniNavBar from "../components/partials/MiniNavBar";
 import PhotographerCard from "../components/photograper/PhotographerCard";
 import { getAllPhotographers } from "../services/photographers";
 
