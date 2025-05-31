@@ -32,7 +32,7 @@ function UserProfile() {
                 setUser({
                     ...userData,
                     userId: userData._id,
-                    Avatar: userData.Avatar,
+                    // Avatar: userData.Avatar,
                 });
                 setEditedUser({
                     FirstName: userData.FirstName,
