@@ -42,7 +42,7 @@ function UserProfile() {
                 });
             })
             .catch((err) => console.log(err));
-    }, []);
+    }, [userId]);
 
     const handleEdit = () => {
         setIsEditing(true);
