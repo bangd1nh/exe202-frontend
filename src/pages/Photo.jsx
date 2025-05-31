@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 // import MiniNavBar from "../component/partials/MiniNavBar";
 import { major, photos } from "../constants/data";
-import MiniNavBar from "../components/partials/MiniNavbar";
+import MiniNavBar from "../components/partials/MiniNavBar.jsx";
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@ant-design/icons";
 
 const BookmarkFlags = ({ colors }) => (
